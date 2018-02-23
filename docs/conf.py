@@ -58,9 +58,9 @@ source_suffix = ['.rst']
 master_doc = 'index'
 
 # General information about the project.
-project = 'IdentityServer4'
-copyright = '2016, Brock Allen & Dominick Baier'
-author = 'Brock Allen & Dominick Baier'
+project = 'Assemblin EL Verksamhetsböcker'
+copyright = '2018, Assemblin'
+author = 'Tomas Johansson'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
