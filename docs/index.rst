@@ -90,12 +90,12 @@ There are several ways we can help you out.
    intro/contributing
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
-   :caption: Quickstarts
+   :caption: Installation kap1
 
-   quickstarts/0_overview
-   quickstarts/1_client_credentials
+   anbud/0_overview
+   anbud/1_client_credentials
    quickstarts/2_resource_owner_passwords
    quickstarts/3_interactive_login
    quickstarts/4_external_authentication
