@@ -82,7 +82,7 @@ There are several ways we can help you out.
 
    ledning/big_picture
    ledning/architecture
-   ansvar/abc
+   ansvar/api_resource
    intro/terminology
 
 .. toctree::
