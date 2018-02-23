@@ -76,7 +76,7 @@ If you need help building or running your identity platform, :ref:`let us know <
 There are several ways we can help you out.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
    :caption: Gemensamt kap0
 
