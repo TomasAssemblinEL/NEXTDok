@@ -1,5 +1,5 @@
 .. _refApiResource:
-API Resource
+Ansvar
 =================
 This class model an API resource.
 
