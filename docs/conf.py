@@ -58,7 +58,7 @@ source_suffix = ['.rst']
 master_doc = 'index'
 
 # General information about the project.
-project = 'Assemblin EL Verksamhetsböcker'
+project = 'Assemblin EL Verksamhetdokument'
 copyright = '2018, Assemblin'
 author = 'Tomas Johansson'
 
