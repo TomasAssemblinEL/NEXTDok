@@ -1,1 +1,25 @@
+Styrning
+=================
+This class model an API resource.
+
+Ekonomiskt ansvar Attestmatris
+^^^^^^
+
+Attest- och beslutsordning gäller enligt respektive funktionsbeskrivning. Med attesträtt menas befogenheten att skriftligen intyga riktigheten av dokument eller betalning. Med utanordning menas signering för utställning till betalning. Beslutsområde är alltid respektive bolag. Delegering av ansvar och befogenheter till ställföreträdare skall dokumenteras i H-8.XX Lokal organisation och lokal anpassning
+
+Medarbetare inom Assemblin AB
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Just a note about the constructors provided for the ``ApiResource`` class.
+
+Arkiveringsregler
+^^^^^^^^^^^^
+
+Text kommer
+
+Verksamhetshandbok samy Q-dokument
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+Just a note out the constructors provided for the ``ApiResource`` class.
+
 
