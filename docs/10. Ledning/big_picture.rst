@@ -1,33 +1,9 @@
-The Big Picture
-===============
-
-Most modern applications look more or less like this:
-
-.. image:: images/appArch.png
-
-The most common interactions are:
-
-* Browsers communicate with web applications
-
-* Web applications communicate with web APIs (sometimes on their own, sometimes on behalf of a user)
-
-* Browser-based applications communicate with web APIs
-
-* Native applications communicate with web APIs
-
-* Server-based applications communicate with web APIs
-
-* Web APIs communicate with web APIs (sometimes on their own, sometimes on behalf of a user)
-
-Typically each and every layer (front-end, middle-tier and back-end) has to protect resources and
-implement authentication and/or authorization – often against the same user store.
-
-Outsourcing these fundamental security functions to a security token service prevents duplicating that functionality across those applications and endpoints.
-
-Restructuring the application to support a security token service leads to the following architecture and protocols:
-
-.. image:: images/protocols.png
-
+Assemblin EL AB verksamhetssystem
+^^^^^^^^^^^^^^
+Syfte Verksamhetshandboken är vårt verktyg för att styra utförandet av de produkter och tjänster som företaget tillhandahåller, så att kvalitetsmål och kvalitetspolicy uppnås, samt så att miljöpåverkande verksamhet utförs enligt gällande lagar, miljöpolicy, och fastställda miljömål.
+ Genom Assemblin ELs verksamhetssystem:•fastställs och dokumenteras våra rutiner.•informeras kunder och anställda om våra policys, samt de åtgärder vi vidtagit för att upprätthålla och vidmakthålla dessa.•säkerställs kvaliteten i våra produkter och tjänster.•säkerställs att aktiviteter som påverkar den yttre miljön genomförs enligt upprättat miljöprogram och uppställda mål.
+Omfattning Kvalitets- och miljöledningssystemen är uppbyggda enligt och motsvarar kraven i systemstandarderna SS-EN ISO 9001:2008 och SS-EN ISO 14001:2004. Systemen omfattar samtliga avdelningar inom Assemblin EL  AB.
+Verksamhetshandboken: Beskrivning av kvalitets- och miljöledningssystemen i sin helhet.
 Such a design divides security concerns into two parts:
 
 Authentication
