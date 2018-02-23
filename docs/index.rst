@@ -45,10 +45,43 @@ There are several ways we can help you out.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Introduction
+   :caption: n officially `certified <https://openid.net/certification/>`_ implementation of OpenID Connect.
+Single Sign-on / Sign-out
+^^^^^^^^^^^^^^^^^^^^^^^^^
+Single sign-on (and out) over multiple application types.
 
-   intro/big_picture
-   intro/architecture
+Access Control for APIs
+^^^^^^^^^^^^^^^^^^^^^^^
+Issue access tokens for APIs for various types of clients, e.g. server to server, web applications, SPAs and
+native/mobile apps.
+
+Federation Gateway
+^^^^^^^^^^^^^^^^^^
+Support for external identity providers like Azure Active Directory, Google, Facebook etc.
+This shields your applications from the details of how to connect to these external providers.
+
+Focus on Customization
+^^^^^^^^^^^^^^^^^^^^^^
+The most important part - many aspect of IdentityServer can be customized to fit **your** needs.
+Since IdentityServer is a framework and not a boxed product or a SaaS, you can write code to adapt the system the way it makes sense for your scenarios.
+
+Mature Open Source
+^^^^^^^^^^^^^^^^^^
+IdentityServer uses the permissive `Apache 2 <https://www.apache.org/licenses/LICENSE-2.0>`_ license that allows building commercial products on top of it. 
+It is also part of the `.NET Foundation <https://dotnetfoundation.org/>`_ which provides governance and legal backing.
+
+Free and Commercial Support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+If you need help building or running your identity platform, :ref:`let us know <refSupport>`.
+There are several ways we can help you out.
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: 10.Ledning
+
+   ledning/big_picture
+   ledning/architecture
    intro/terminology
    intro/specs
    intro/packaging
