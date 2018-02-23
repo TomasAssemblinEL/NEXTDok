@@ -78,7 +78,7 @@ There are several ways we can help you out.
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: 10.Ledning
+   :caption: Ledning
 
    ledning/big_picture
    ledning/architecture
