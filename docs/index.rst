@@ -52,12 +52,6 @@ If you .....
    :caption: Systematiskt Elsäkerhetsarbete
 
    endpoints/discovery
-   endpoints/authorize
-   endpoints/token
-   endpoints/userinfo
-   endpoints/introspection
-   endpoints/revocation
-   endpoints/endsession
 
 .. toctree::
    :maxdepth: 3
@@ -66,13 +60,6 @@ If you .....
 
    reference/identity_resource
    reference/api_resource
-   reference/client
-   reference/grant_validation_result
-   reference/profileservice
-   reference/interactionservice
-   reference/options
-   reference/ef
-   reference/aspnet_identity
 
 .. toctree::
    :maxdepth: 3
@@ -88,6 +75,4 @@ If you .....
    :hidden:
    :caption: Mallar
 
-   misc/videos
-   misc/videos
-   misc/videos
+   misc/test
