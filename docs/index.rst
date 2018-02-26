@@ -25,8 +25,6 @@ If you .....
    :caption: Installation kap1
 
    anbud/0_overview
-   anbud/1_client_credentials
-
 
 .. toctree::
    :maxdepth: 3
@@ -34,7 +32,6 @@ If you .....
    :caption: Systematiskt Elsäkerhetsarbete
 
    anbud/0_overview
-   configuration/resources
 
 .. toctree::
    :maxdepth: 3
@@ -42,8 +39,6 @@ If you .....
    :caption: Personal
 
    anbud/0_overview
-   topics/resources
-   topics/clients
 
 .. toctree::
    :maxdepth: 3
@@ -51,7 +46,6 @@ If you .....
    :caption: Ekonomi
 
    anbud/0_overview
-   reference/api_resource
 
 .. toctree::
    :maxdepth: 3
@@ -59,5 +53,3 @@ If you .....
    :caption: Inköp
 
    anbud/0_overview
-   misc/blogs
-   misc/videos
