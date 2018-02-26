@@ -87,7 +87,7 @@ If you .....
    :maxdepth: 3
    :hidden:
    :caption: Mallar
-   
-   misc/videos
+
+   misc/videos
    misc/videos
    misc/videos
