@@ -29,17 +29,17 @@ If you .....
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
-   :caption: Configuration
+   :caption: Systematiskt Elsäkerhetsarbete
 
    configuration/startup
    configuration/resources
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
-   :caption: Topics
+   :caption: Personal
 
    topics/startup
    topics/resources
@@ -47,9 +47,9 @@ If you .....
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
-   :caption: Endpoints
+   :caption: Systematiskt Elsäkerhetsarbete
 
    endpoints/discovery
    endpoints/authorize
@@ -60,9 +60,9 @@ If you .....
    endpoints/endsession
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
-   :caption: Reference
+   :caption: Ekonomi
 
    reference/identity_resource
    reference/api_resource
@@ -75,10 +75,19 @@ If you .....
    reference/aspnet_identity
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :hidden:
-   :caption: Misc
+   :caption: Inköp
 
    misc/training
    misc/blogs
    misc/videos
+   
+ .. toctree::
+     :maxdepth: 3
+     :hidden:
+     :caption:Mallar
+     
+     misc/videos
+     misc/videos
+     misc/videos
