@@ -33,7 +33,7 @@ If you .....
    :hidden:
    :caption: Systematiskt Elsäkerhetsarbete
 
-   configuration/startup
+   anbud/0_overview
    configuration/resources
 
 .. toctree::
@@ -41,24 +41,16 @@ If you .....
    :hidden:
    :caption: Personal
 
-   topics/startup
+   anbud/0_overview
    topics/resources
    topics/clients
-
-
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: Systematiskt Elsäkerhetsarbete
-
-   endpoints/discovery
 
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Ekonomi
 
-   reference/identity_resource
+   anbud/0_overview
    reference/api_resource
 
 .. toctree::
@@ -66,6 +58,6 @@ If you .....
    :hidden:
    :caption: Inköp
 
-   misc/training
-   misc/blogs
+   anbud/0_overview
+   misc/blogs
    misc/videos
