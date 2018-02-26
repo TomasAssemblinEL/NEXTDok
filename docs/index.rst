@@ -83,7 +83,7 @@ If you .....
    misc/blogs
    misc/videos
    
- .. toctree:
+ .. toctree::
     :maxdepth: 3
     :hidden:
     :caption:Mallar
