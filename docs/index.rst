@@ -1,36 +1,14 @@
-Verksamhetshandbok Installation
-   :align: center
-==========================
-
 .. image:: images/Assemblin.png
    :align: center
+   
+Verksamhetshandbok Installation
+==========================  
+   
+Handboken beskriver de rutiner som omfattas av verksamheten som bedrivs på Installationsavdelningar i Assemblin EL.
 
-IdentityServer4 is an OpenID Connect and OAuth 2.0 framework for ASP.NET Core 2.
-
-It enables the following features in your applications:
-
-Authentication as a Service
+Hjälp och support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Centralized login logic and workflow for all of your applications (web, native, mobile, services).
-IdentityServer is an officially `certified <https://openid.net/certification/>`_ implementation of OpenID Connect.
-
-Free and Commercial Support
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you need help building or running your identity platform, :ref:`let us know <refSupport>`.
-There are several ways we can help you out.
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: n officially `certified <https://openid.net/certification/>`_ implementation of OpenID Connect.
-Single Sign-on / Sign-out
-^^^^^^^^^^^^^^^^^^^^^^^^^
-Single sign-on (and out) over multiple application types.
-
-Free and Commercial Support
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
-If you need help building or running your identity platform, :ref:`let us know <refSupport>`.
-There are several ways we can help you out.
+If you .....
 
 .. toctree::
    :maxdepth: 3
