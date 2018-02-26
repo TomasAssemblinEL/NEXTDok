@@ -1,7 +1,8 @@
 Verksamhetshandbok Installation
+   :align: center
 ==========================
 
-.. image:: images/A.png
+.. image:: images/Assemblin.png
    :align: center
 
 IdentityServer4 is an OpenID Connect and OAuth 2.0 framework for ASP.NET Core 2.
