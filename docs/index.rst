@@ -69,10 +69,3 @@ If you .....
    misc/training
    misc/blogs
    misc/videos
-   
-.. toctree::
-   :maxdepth: 3
-   :hidden:
-   :caption: Mallar
-
-   misc/test
