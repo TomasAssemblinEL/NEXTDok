@@ -44,3 +44,28 @@ or delegating the user’s identity. Sometimes both methods need to be combined.
 OAuth2 is a protocol that allows applications to request access tokens from a security token service and use them
 to communicate with APIs. This delegation reduces complexity in both the client applications as well as the APIs since
 authentication and authorization can be centralized.
+
+Ansvar
+===============
+
+Ekonomiskt ansvar
+^^^^^^^^^^^^^^
+
+Styrning
+===============
+
+Kompetenskrav
+^^^^^^^^^^^^^^
+
+Stödrutin
+===============
+
+Leverantörsbedömning
+^^^^^^^^^^^^^^
+
+
+Miljö
+===============
+
+Modell för bedömnng av
+^^^^^^^^^^^^^^
