@@ -65,12 +65,12 @@ If you .....
    :hidden:
    :caption: Mallar
    
-   inkop/rutiner
+   mallar/rutiner
    
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Externa referenser
    
-   inkop/rutiner
+   ext_ref/rutiner
    
