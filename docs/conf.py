@@ -238,8 +238,7 @@ html_static_path = ['_static']
 # Sphinx supports the following languages:
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'h', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'r', 'sv', 'tr', 'zh'
-#
-# html_search_language = 'en'
+## html_search_language = 'en'
 
 # A dictionary with options for the search language support, empty by default.
 # 'ja' uses this config value.
@@ -281,9 +280,7 @@ latex_elements = {
      # Latex figure (float) alignment
      #
      # 'figure_align': 'htbp',
-}',
-     'Hans Wiberg, Tomas Johansson', 'manual'),
-]
+}
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
