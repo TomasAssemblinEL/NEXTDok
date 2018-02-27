@@ -36,40 +36,41 @@ If you .....
    :maxdepth: 3
    :hidden:
    :caption: Systematiskt Elsäkerhetsarbete
-
+   
    sel/rutiner
-
+   
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Personal
-
+   
    sam/rutiner
-
+   
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Ekonomi
-
+   
    ekonomi/rutiner
-
+   
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Inköp
-
+   
    inkop/rutiner
    
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Mallar
-   
+   
    inkop/rutiner
    
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Externa referenser
-   
+   
    inkop/rutiner
+   
