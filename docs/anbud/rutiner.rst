@@ -66,4 +66,79 @@ Våra säljargument skall vara
 H 1.10.30- Förfrågan
 ^^^^^^^^^^^^^^
 
-Text kommer...
+Genomgång av förfrågningsunderlag.
+
+Offertansvarig går igenom förfrågan och tar ställning till om resurser och kunnande finns inom företaget vid den aktuella produktionstiden innan vidare bearbetning sker.
+
+Råder tveksamhet om vi kan uppfylla kundens önskemål eller om kraven i förfrågan ligger utanför vårt normala verksamhetsområde skall offertansvarig samråda med VD/Regionchef alt.
+
+Filialchef innan kalkylarbetet startar.
+Om ställda krav ej kan tillgodoses meddelas kunden att vi ej kan offerera förfrågan.
+ 
+Affärsriskbedömning i Anbudsskedet.
+
+Vid anbud > 1 Mkr ska alla anbud innehålla en dokumenterad affärsriskbedömning, som finns i Projektpanelen. Offertansvarig/kalkylator ansvarar för att detta genomförs, dokumenteras och presenteras för Filialchef  alt. Regionchef för beslut.
+
+Regioninköpare deltar när Filialchef / Regionchef anser det nödvändigt.
+
+Vid anbud > 10 Mkr ska dessutom lokala anbudsrådsmöten enligt faställd agenda i projektpanelen hållas. Regionchef, Filialchef och Offertansvarig är obligatoriska deltagare. 
+Företagets Riskmanager skall bjudas in. 
+
+Om anbudssumman överstiger 20Mkr skall dessutom VD bjudas in.
+Förfrågningsunderlag och administrativa föreskrifter delges deltagarna, eller extern jurist eller annan part som Riskansvarig delegerar till.
+
+Vid anbud > 50 Mkr ska Anbudsrådsmöten hållas. Styrelsen ska ge sitt medgivande enligt beslutsmatris.
+
+Attesträtter ska följa Ekonomiskt Ansvar H 0.20.10
+ 
+Hantering av förfrågan
+
+Offertansvarig ansvarar för att nedanstående punkter följs:
+Anbudsprojektet registreras i Next.
+
+Anbudpärm skapas med dokumentet Pärmregister Anbudspärm, där samtliga handlingar som ej hanteras i datamedia förvaras. Anbudpärmen förvaras på kalkylavdelningen.
+
+All korrespondens skall märkas med anbudsnummer.
+Anbudspärm Läggs upp av kalkylator/ projektledaren enligt Övriga dokument/Pärmregister Anbudspärm.
+Pärmen kan delas efter behov, och innehåller bland annat följande. Kontrakt Kontraktskalkyl Anbud Anbudskalkyl
+Leverantörer
+
+Övrigt Anbudsförfrågan Handlingsförteckning KF och PM AF-del Teknisk beskrivning Rumsbeskrivning Brandskyddsdokumentation Övrigt Ritningar, Digital handling Egenkontroll
+
+Avsikten med egenkontrollen är att fånga upp alla oklarheter eller fel i handlingarna redan i kalkylskedet, samt förbereda för registreringen i affärssystemet vid en beställning.
+
+Det åligger oss att kontrollera att kundens krav är tillräckligt väl definierade. Eventuella oklarheter eller fel som upptäckt redovisas som projektnoteringar.
+
+Dessa bör påtalas för beställaren och/eller leda till reservation i anbudet.
+ 
+Miljökrav och miljörisker
+
+Granska vilka miljökrav som finns i kundens förfrågan. OBS kunden/fastighetsägaren är skyldig enligt gällande lagstiftning att informera om huruvida bef. anläggning innehåller miljöfarliga produkter. Avsikten är även här att fånga upp alla krav och oklarheter.
+
+Miljöriskerna för projektet skall identifieras. Checklista miljörisker Mj11 är ett hjälpmedel för denna riskinventering.
+Finns krav på rivningsplan? För större projekt upprättas Rivningsplan Mj12.
+
+Leverantörer för offertförfrågan i anbudsfasen.
+Offertförfrågan skall skickas till godkända eller av kund anvisade leverantörer. Offertförfrågan sker enligt mallarna i Verksamhetshandboken » 10. Blanketthandbok » 03. Inköp: - Materielförfrågan enligt AB-ABT: 
+
+Avtal köp av varor ABM07 (förenklad) Standardmall avtal ABM07 - UE-förfrågan enligt AB-ABT: Förfrågan UE AB04 Förfrågan UE AB04 (förenklad) Förfrågan UE ABT06 Förfrågan UE ABT06 (förenklad) - Konsultförfrågan enligt ABK: Konsult generell sekretessförbindelse.
+
+Kortmall avtal ABK09, Kortmall förfrågan ABK09 Standardmall konsultavtal Leverantörsrisker.
+Redan i kalkylskedet skall risker med ej kontrakterade eller prekvalificerade leverantörers offerter kartläggas.
+Analys av krav från kund- och materielspecifikationer skall utföras.  Om möjligt skall vi försöka minimera risker för Assemblin EL AB och kund och i dialog med kund styra över offert av materiel och tjänster till kontrakterade och eller prekvalificerade leverantörer.
+
+Krav AF-del, teknisk beskrivning och ritningar skall studeras noggrant.
+Vi skall få en klar bild av entreprenadens omfattning samt kunna ta ställning.
+
+När det finns behov av att dokumentera situationen på plats används fotodokumentation.
+
+Övrigt
+Vi skall skicka Förfrågan Do05 till leverantörer. Bifoga till förfrågan texten i Elbeskrivningen. Kontrollera pkt YT (märkning, provning) och YU (dokumentation), för att leverantörens offert skall motsvara det som är angivet i objektets elbeskrivning. Bevaka garantitiden.
+
+Mindre förfrågningar löpande- och servicearbete
+
+Kalkyler på mindre förfrågningar (mindre 500tkr) utförs av projektledare eller offertavdelningen. Filialchef skall informeras. Kalkylen kan beredas i Maxikod. Arkivering av mindre förfrågningar sker hos Anbudsansvarig eller projektledare. Arkivering sker digitalt.
+
+Pris- och utförandeförslag
+
+Förfrågningar på sk. Budgetanbud registreras och erhåller ett anbudsnummer. Ett pris- och utförandeförslag är ej ett Anbud i affärsjuridisk mening.
