@@ -16,6 +16,7 @@ If you .....
    :caption: Gemensamt kap0
 
    ledning/rutiner
+   ansvar/rutiner
 
 .. toctree::
    :maxdepth: 3
