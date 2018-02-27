@@ -1,12 +1,12 @@
 Stödrutin
 ===============
 
-H 0.30- Verksamhetshandbok samt Q-dokument
+H 0.50- Leverantörsbedömning
 ^^^^^^^^^^^^^^
 
 Text kommer...
 
-H 0.32- Arkiveringsregle
+H 0.51- Leveranrörsavtal
 ^^^^^^^^^^^^^^
 
 Text kommer...
