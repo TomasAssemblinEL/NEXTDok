@@ -248,7 +248,13 @@ html_static_path = ['_static']
 #
 # html_search_options = {'type': 'default'}
 
-# The name of a javascript file (relative to the configuration directory) that
+# The name of a javascript file (relative to t
+
+# Grouping the document tree into LaTeX files. List of tuples
+# (source start file, target name, title,
+#  author, documentclass [howto, manual, or own class]).
+latex_documents = [
+    (master_doc, 'IdentityServer4.tex', 'Verksamhetshandbok Installationhe configuration directory) that
 # implements a search results scorer. If empty, the default will be used.
 #
 # html_search_scorer = 'scorer.js'
@@ -274,13 +280,7 @@ latex_elements = {
      # Latex figure (float) alignment
      #
      # 'figure_align': 'htbp',
-}
-
-# Grouping the document tree into LaTeX files. List of tuples
-# (source start file, target name, title,
-#  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'IdentityServer4.tex', 'Verksamhetshandbok Installation',
+}',
      'Hans Wiberg, Tomas Johansson', 'manual'),
 ]
 
@@ -322,7 +322,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'identityserver4', 'Verksamhetshandbok Installation',
+    (master_doc, 'Verksamhetshandbok Installation', 'Verksamhetshandbok Installation',
      [author], 1)
 ]
 
@@ -338,7 +338,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'IdentityServer4', 'Verksamhetshandbok Installation',
-     author, 'IdentityServer4', 'One line description of project.',
+     author, 'Verksamhetshandbok Installation', 'One line description of project.',
      'Miscellaneous'),
 ]
 
