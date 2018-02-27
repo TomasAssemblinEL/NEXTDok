@@ -17,6 +17,7 @@ If you .....
 
    ledning/rutiner
    ansvar/rutiner
+   styrning/rutiner
 
 .. toctree::
    :maxdepth: 3
