@@ -51,11 +51,11 @@ If you .....
    :hidden:
    :caption: Ekonomi
 
-   sel/rutiner
+   ekonomi/rutiner
 
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Inköp
 
-   sel/rutiner
+   inkop/rutiner
