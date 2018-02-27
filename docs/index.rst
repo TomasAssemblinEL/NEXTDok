@@ -37,25 +37,25 @@ If you .....
    :hidden:
    :caption: Systematiskt Elsäkerhetsarbete
 
-   anbud/0_overview
+   sel/rutiner
 
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Personal
 
-   anbud/0_overview
+   sam/rutiner
 
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Ekonomi
 
-   anbud/0_overview
+   sel/rutiner
 
 .. toctree::
    :maxdepth: 3
    :hidden:
    :caption: Inköp
 
-   anbud/0_overview
+   sel/rutiner
