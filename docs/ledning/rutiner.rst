@@ -52,12 +52,3 @@ MiljöprogramFör uppföljning och mätning av ovanstående miljömål se H-0.94
 
 Text kommer...
 
-H 0.30- Verksamhetshandbok samt Q-dokument
-^^^^^^^^^^^^^^
-
-Text kommer...
-
-H 0.32- Arkiveringsregler
-^^^^^^^^^^^^^^
-
-Text kommer...
