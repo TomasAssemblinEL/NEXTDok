@@ -48,13 +48,7 @@ Respektive tillämpliga mål, skall verifieras och redovisas på ledningens ge
 Källsortering För respektive avdelning gäller i tillämpliga fall uppdelning vid källsortering enligt instruktion Mj07 källsortering.
 MiljöprogramFör uppföljning och mätning av ovanstående miljömål se H-0.94 upprättande av miljöledningsprogram.
 
-H 0.20.10- Ekonomist ansvar Attestmatris
-^^^^^^^^^^^^^^
 
-Text kommer....
-
-H 0.20.19- Medarbetare inom Assemblin EL AB
-^^^^^^^^^^^^^^
 
 Text kommer...
 
