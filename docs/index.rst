@@ -1,6 +1,6 @@
 .. image:: images/Assemblin.png
    :align: center
-   
+.   
 Verksamhetshandbok Installation
 ==========================  
    
