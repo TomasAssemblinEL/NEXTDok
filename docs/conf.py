@@ -280,8 +280,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'IdentityServer4.tex', 'IdentityServer4 Documentation',
-     'Brock Allen, Dominick Baier', 'manual'),
+    (master_doc, 'IdentityServer4.tex', 'Verksamhetshandbok Installation',
+     'Hans Wiberg, Tomas Johansson', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -322,7 +322,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'identityserver4', 'IdentityServer4 Documentation',
+    (master_doc, 'identityserver4', 'Verksamhetshandbok Installation',
      [author], 1)
 ]
 
@@ -337,7 +337,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'IdentityServer4', 'IdentityServer4 Documentation',
+    (master_doc, 'IdentityServer4', 'Verksamhetshandbok Installation',
      author, 'IdentityServer4', 'One line description of project.',
      'Miscellaneous'),
 ]
