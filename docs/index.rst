@@ -15,8 +15,8 @@ If you .....
    :hidden:
    :caption: Gemensamt kap0
 
-   ledning/H 0.01-
-   ledning/H 0.10-
+   ledning/H_0.01-
+   ledning/H_0.10-
    ansvar/api_resource
 
 .. toctree::
