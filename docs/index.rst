@@ -58,7 +58,7 @@ If you .....
    :hidden:
    :caption: Inköp
    
-   inkop/rutiner
+   ekonomi/rutiner
    
 .. toctree::
    :maxdepth: 3
