@@ -252,8 +252,10 @@ html_static_path = ['_static']
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
-latex_documents = [
-    (master_doc, 'IdentityServer4.tex', 'Verksamhetshandbok Installationhe configuration directory') that
+ # Output file base name for HTML help builder. 
+
+-htmlhelp_basename = 'IdentityServer4doc' 
+
 # implements a search results scorer. If empty, the default will be used.
 #
 # html_search_scorer = 'scorer.js'
