@@ -15,9 +15,8 @@ If you .....
    :hidden:
    :caption: Gemensamt kap0
 
-   ledning/H_0.01-
-   ledning/H_0.10-
-   ansvar/api_resource
+   ledning/H_0_01-
+   ledning/H_0_10-
 
 .. toctree::
    :maxdepth: 3
