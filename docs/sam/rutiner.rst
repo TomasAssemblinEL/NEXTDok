@@ -6,7 +6,7 @@ Am 3.01- Skyddsorganisation
 
 Text kommer...
 
-H 3.02- Kränkande särbehandling
-l^^^^^^^^^^^^^^
+Am 3.02- Kränkande särbehandling
+^^^^^^^^^^^^^^
 
 Text kommer...
