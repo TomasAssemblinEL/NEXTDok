@@ -26,7 +26,11 @@ If you .....
    :hidden:
    :caption: Installation kap1
 
-   anbud/0_overview
+   anbud/rutiner
+   planering/rutiner
+   projektering/rutiner
+   produktion/rutiner
+   avslut/rutiner
 
 .. toctree::
    :maxdepth: 3
