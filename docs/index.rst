@@ -59,3 +59,17 @@ If you .....
    :caption: Inköp
 
    inkop/rutiner
+   
+.. toctree::
+   :maxdepth: 3
+   :hidden:
+   :caption: Mallar
+   
+   inkop/rutiner
+   
+.. toctree::
+   :maxdepth: 3
+   :hidden:
+   :caption: Externa referenser
+   
+   inkop/rutiner
