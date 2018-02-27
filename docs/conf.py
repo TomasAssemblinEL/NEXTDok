@@ -213,7 +213,6 @@ html_static_path = ['_static']
 # If true, the index is split into individual pages for each letter.
 #
 # html_split_index = False
-
 # If true, links to the reST sources are added to the pages.
 #
 # html_show_sourcelink = True
@@ -254,7 +253,7 @@ html_static_path = ['_static']
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'IdentityServer4.tex', 'Verksamhetshandbok Installationhe configuration directory) that
+    (master_doc, 'IdentityServer4.tex', 'Verksamhetshandbok Installationhe configuration directory') that
 # implements a search results scorer. If empty, the default will be used.
 #
 # html_search_scorer = 'scorer.js'
