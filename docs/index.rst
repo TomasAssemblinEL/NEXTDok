@@ -19,7 +19,7 @@ If you .....
    ansvar/rutiner
    styrning/rutiner
    st-drutin/rutiner
-   milj/rutiner
+   Milj/rutiner
 
 .. toctree::
    :maxdepth: 3
