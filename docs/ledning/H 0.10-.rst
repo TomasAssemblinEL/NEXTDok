@@ -1,4 +1,4 @@
-Verksamhetspolicy
+H 0.10 Verksamhetspolicy
 ^^^^^^^^^^^^^^
 
 Authentication is needed when an application needs to know the identity of the current user.Typically these applications manage data on behalf of that user and need to make sure that this user can onlyaccess the data for which he is allowed. The most common example for that is (classic) web applications –but native and JS-based applications also have a need for authentication.
