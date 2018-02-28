@@ -4,12 +4,12 @@ Ledning
 H 0.01- Assemblin EL AB Huvudprocesser
 ^^^^^^^^^^^^^^
 
+Text kommer ...
+
 H 0.10- Assemblin EL AB verksamhetsystem
 ^^^^^^^^^^^^^^
 
-Assemblin EL AB verksamhetssystemSyfteVerksamhetshandboken är vårt verktyg för att styra utförandet av de produkter och tjänster som företaget tillhandahåller, så att kvalitetsmål och kvalitetspolicy uppnås, samt så att miljöpåverkande verksamhet utförs enligt gällande lagar, miljöpolicy, och fastställda miljömål.
-Genom Assemblin ELs verksamhetssystem:* fastställs och dokumenteras våra rutiner.* informeras kunder och anställda om våra policys, samt de åtgärder vi vidtagit för att upprätthålla och vidmakthålla dessa.* säkerställs kvaliteten i våra produkter och tjänster.* säkerställs att aktiviteter som påverkar den yttre miljön genomförs enligt upprättat miljöprogram och uppställda mål.
-OmfattningKvalitets- och miljöledningssystemen är uppbyggda enligt och motsvarar kraven i systemstandarderna SS-EN ISO 9001:2008 och SS-EN ISO 14001:2004. Systemen omfattar samtliga avdelningar inom Assemblin EL  AB.Verksamhetshandboken: Beskrivning av kvalitets- och miljöledningssystemen i sin helhet.
+Text kommer ...
 
 H 0.11- Verksamhetspolicy
 ^^^^^^^^^^^^^^
