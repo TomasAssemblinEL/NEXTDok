@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Handbok'
-copyright = u'2018, Handbok'
-author = u'Handbok'
+project = u'Verksamhetshandbok Installation'
+copyright = u'2018, Assemblin'
+author = u'Tomas Johansson'
 
 # The short X.Y version
 version = u''
@@ -101,7 +101,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Handbokdoc'
+htmlhelp_basename = 'Verksamhetshandbok'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -128,7 +128,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Handbok.tex', u'Handbok Documentation',
+    (master_doc, 'Handbok.tex', u'Verksamhetshandbok Installation',
      u'Handbok', 'manual'),
 ]
 
