@@ -36,15 +36,15 @@ H 0.12- Verksamhetsmål 2017
 Kontinuerlig uppföljning av ställda kvalitetsmål sker enligt:
 
 H-0.12 Installation / Automation / Verkstäder 
-  1.  Entreprenadprojekt över 500tkr. Ska innehålla genomfört Startmöte.
-  2.  Kostnader för besiktningsanmärkningar är lägre än 0,5% av fakturerad summa.Övergripande  Miljömål 
-  1. Minska den miljöpåverkan verksamhetens transporter åstadkommer, och som ekonomiskt och tekniskt kan påverkas.
-  2. Optimera avfallshanteringen från Verkstaden i Örebro.
-  3  Kartlägga energiförbrukningen på Verkstaden i Örebro.Detaljerade 
+ 1.  Entreprenadprojekt över 500tkr. Ska innehålla genomfört Startmöte.
+ 2.  Kostnader för besiktningsanmärkningar är lägre än 0,5% av fakturerad summa.Övergripande  Miljömål 
+ 1. Minska den miljöpåverkan verksamhetens transporter åstadkommer, och som ekonomiskt och tekniskt kan påverkas.
+ 2. Optimera avfallshanteringen från Verkstaden i Örebro.
+ 3  Kartlägga energiförbrukningen på Verkstaden i Örebro.Detaljerade 
 
 Miljömål 
-  1.  Målet är att bilparkens genomsnittliga Co2-utsläpp ska ej vara högre än 145g/km. Optimera avfallstransporterna från resp. Filial.
-  2.  Verkstaden i Örebro ska minska den specifika mängden farligt avfall som uppkommer från den alkaliska tvätten och från indunstaren. Referensår för miljömålet är avfallsmängderna 2015.
+ 1.  Målet är att bilparkens genomsnittliga Co2-utsläpp ska ej vara högre än 145g/km. Optimera avfallstransporterna från resp. Filial.
+ 2.  Verkstaden i Örebro ska minska den specifika mängden farligt avfall som uppkommer från den alkaliska tvätten och från indunstaren. Referensår för miljömålet är avfallsmängderna 2015.
   3.  Energikartläggningen ska omfatta en ingående översyn av energianvändningen och förslag på kostnadseffektiva åtgärder.
 Respektive tillämpliga mål, skall verifieras och redovisas på ledningens genomgång för Bolaget. 
 
